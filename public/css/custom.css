@@ -1,0 +1,235 @@
+.status-card {
+    height: 235px;
+}
+
+
+/*===== Car Status Card CSS Start =====*/
+
+.all-car-card {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/status-card/all-car.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.new-car-card {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/status-card/new-car.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.used-car-card {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/status-card/used-car.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.junk-car-card {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/status-card/junk-car.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.status-card .card-header {
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+/*===== Car Status Card CSS End =====*/
+
+
+/*===== Driveline Car Card CSS Starts =====*/
+
+.all-wheel-card {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/driveline/all-wheel.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.front-wheel-card {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/driveline/front-wheel.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rear-wheel-card {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/driveline/rear-wheel.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.four-wheel-card {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/driveline/four-wheel.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*===== Driveline Car Card CSS End =====*/
+
+
+/*===== Fuel Type Car Card CSS Start =====*/
+
+.petrol-car {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/fuel-type-card/petrol-car.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.diesel-car {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/fuel-type-card/diesel-car.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gas-car {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/fuel-type-card/lpg-car.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.battery-car {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/fuel-type-card/battery-car.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*===== Fuel Type Car Card CSS End =====*/
+
+
+/*===== Transmission Type Car Card CSS Starts =====*/
+
+.all-trnas-car {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/transmission-type-card/all-transmission-car.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.automatic-car {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/transmission-type-card/automatic-car.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.manual-car {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/transmission-type-card/manual-car.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.both-trnas-car {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/transmission-type-card/both-transmission-car.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* for general page */
+
+/*===== Image Container =====*/
+.status-card .card-img {
+    width: 100%;
+    height: 100%;
+}
+
+.fit-img {
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+    height: 100%;
+    max-height: 100%;
+    min-height: 100%;
+    object-fit: cover;
+}
+
+.width-180px{
+    width: 180px;
+}
+
+.general-tab .badge{
+  top: 18%;
+  left: 83%;
+  padding: 3px 5px;
+}
+
+
+.add-banner-img label::after{
+    content: "Add Image";
+      position: absolute;
+      height: 25px;
+      width: 100px;
+      top: 0;
+      padding: 0px 6px;
+      border-radius: 6px;
+      right: 0%;
+      background: chartreuse;
+      line-height: 25px;
+}
+  
+  .position-initial{
+      position: initial;
+  }
+  
+  .default-img{
+      width: 100%;
+      max-width: 100%;
+      min-width: 100%;
+      height: 100%;
+      max-height: 100%;
+      min-height: 100%;
+      object-fit: cover;
+  }
+  
+  .banner-img-container{
+      width: 100%;
+      height: 500px;
+      box-shadow: 0px 0px 10px #24695c;
+  }
+  
+  .banner-accordion label {
+      cursor: pointer;
+  }
+  
+  .banner-accordion.default-according.style-1 button[aria-expanded="false"]:before,
+  .banner-accordion.default-according.style-1 button[aria-expanded="true"]:before{
+      display: none;
+  }
+  
+  .banner-acco-btn{
+      z-index: 10;
+      top: 25%;
+      right: 0;
+  }
+  
+  .banner-edit,
+  .banner-del{
+      width: 30px !important;
+      padding: 2px 7px;
+      border-radius: 50%;
+      margin-right: 10px;
+  }
+  
+  
+  
+
+
+/*===== Transmission Type Car Card CSS End =====*/

@@ -1,0 +1,4 @@
+[10-Dec-2021 10:28:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dnow/public_html/junkie_auto-admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 366
+[10-Dec-2021 10:30:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dnow/public_html/junkie_auto-admin/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1381
+[10-Dec-2021 10:30:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dnow/public_html/junkie_auto-admin/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 294
+[26-Apr-2022 06:01:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10075672 bytes) in /home/dnow/public_html/junkie_auto-admin/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 63
